@@ -1,3 +1,4 @@
+# coding=utf-8
 def if_demo(a):
     """
     if语句示例
